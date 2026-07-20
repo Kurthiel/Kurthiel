@@ -1,40 +1,50 @@
-# 👋 Welcome to Kurthiel
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="Kurthiel Logo">
+</p>
 
-Building practical AI systems, automation workflows, and business tools for modern businesses.
+<h1 align="center">Kurthiel</h1>
 
-## 🚀 Mission
-Kurthiel is focused on helping businesses work smarter through practical applications of artificial intelligence, automation, and well-designed business systems.
+<p align="center">
+Building practical AI systems, automation workflows, and business tools.
+</p>
+
+## 👋 About
+
+Kurthiel is an AI-focused brand dedicated to helping businesses work smarter through practical automation, intelligent workflows, and well-designed business systems.
 
 The goal is simple:
 - Save businesses time
 - Improve productivity
-- Build reliable AI-powered solutions
+- Build practical AI solutions
+- Create systems people actually enjoy using
 
-## 🛠 Current Focus
-- AI Research
-- Prompt Engineering
+## 🚀 Current Focus
+- Artificial Intelligence
 - Workflow Automation
+- Prompt Engineering
 - Business Documentation
 - Productivity Systems
-- Process Optimization
+- Technical Research
 
 ## 📂 Current Projects
-- 📄 AI Business Research Reports
-- 📚 Prompt Library
-- ⚙️ Automation Workflows
-- 📊 Business Templates
-- 📑 Standard Operating Procedures (SOPs)
+- AI Portfolio
+- Business Research Reports
+- Prompt Library
+- Automation Workflows
+- Documentation Templates
 
 ## 🌱 Currently Learning
 - Python
 - Git & GitHub
-- n8n Automation
+- n8n
 - AI APIs
 - Machine Learning Fundamentals
 
+## 🎯 Mission
+Building reliable AI tools that solve real business problems.
+
 ## 📫 Contact
-Email:
-hello.kurthiel@gmail.com
+📧 hello.kurthiel@gmail.com
 
 ---
 
