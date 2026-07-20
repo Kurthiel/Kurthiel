@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Welcome to Kurthiel
 
-<!--
-**Kurthiel/Kurthiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical AI systems, automation workflows, and business tools for modern businesses.
 
-Here are some ideas to get you started:
+## 🚀 Mission
+Kurthiel is focused on helping businesses work smarter through practical applications of artificial intelligence, automation, and well-designed business systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The goal is simple:
+- Save businesses time
+- Improve productivity
+- Build reliable AI-powered solutions
+
+## 🛠 Current Focus
+- AI Research
+- Prompt Engineering
+- Workflow Automation
+- Business Documentation
+- Productivity Systems
+- Process Optimization
+
+## 📂 Current Projects
+- 📄 AI Business Research Reports
+- 📚 Prompt Library
+- ⚙️ Automation Workflows
+- 📊 Business Templates
+- 📑 Standard Operating Procedures (SOPs)
+
+## 🌱 Currently Learning
+- Python
+- Git & GitHub
+- n8n Automation
+- AI APIs
+- Machine Learning Fundamentals
+
+## 📫 Contact
+Email:
+hello.kurthiel@gmail.com
+
+---
+
+> Building one useful project at a time.
